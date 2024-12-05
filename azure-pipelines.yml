@@ -3,6 +3,8 @@ trigger:
 
 pool:
   name: 'Default' # Replace Default with the name of your agent pool if you used a different pool
+  demands:
+  - npm
 
 variables:
   buildConfiguration: 'Release'
