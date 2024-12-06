@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/river-sales/Space%20Game%20-%20web%20-Workflow/_apis/build/status%2Ftrovarobe.spacegame-web?branchName=main)](https://dev.azure.com/river-sales/Space%20Game%20-%20web%20-Workflow/_build/latest?definitionId=7&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
